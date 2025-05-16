@@ -1,1 +1,4 @@
 # QRS-COMPLEX-DETECTION
+Introduced by Jiapu Pan and Willis J. Tompkins in 1985, the Pan-Tompkins algorithm stands out for its adaptability to various ECG signal characteristics and noise levels. Comprising four main stages—bandpass filtering, signal differentiation, squaring, and integration—this algorithm operates synergistically to emphasize the distinctive features of the QRS complex while mitigating the impact of noise and 
+interference. 
+In our pursuit of enhancing QRS detection accuracy, our approach integrates digital filters within the Pan-Tompkins algorithm to further reduce the influence of noise sources. This comprehensive solution incorporates linear digital filtering, nonlinear transformation (signal amplitude squaring), and decision rule algorithms, including adaptive thresholds and Twave discrimination techniques. 
